@@ -4,16 +4,17 @@
 
 '''
 
-888b     d888  .d8888b.
-8888b   d8888 d88P  Y88b
-88888b.d88888 888    888
-888Y88888P888 888
-888 Y888P 888 888
-888  Y8P  888 888    888
-888   "   888 Y88b  d88P
-888       888  "Y8888P"
+:'######::'##:::'##:
+'##... ##: ##::'##::
+ ##:::..:: ##:'##:::
+ ##::::::: #####::::
+ ##::::::: ##. ##:::
+ ##::: ##: ##:. ##::
+. ######:: ##::. ##:
+:......:::..::::..::
 
-Coded by MatriX Coder from tunisia
+
+Coded by CYBER KALLAN from Kerala
 Use my code as you want :D    
 
 '''
@@ -30,9 +31,9 @@ logo = '''
 
     ___    __    __ 
    /   |  / /   / /   | ----| All Sites Grabber |----
-  / /| | / /   / /    | Author : MatriX Coder
- / ___ |/ /___/ /___  | FB : www.fb.com/matrixcoder2
-/_/  |_/_____/_____/  | Blog : www.matrixcoder.co.vu
+  / /| | / /   / /    | Author : Arjun Arz
+ / ___ |/ /___/ /___  | FB : www.fb.com/cyberkallanofficial
+/_/  |_/_____/_____/  | Blog : www.cyberkallan.com
                     
 
 [*] Usage : python '''+sys.argv[0]+''' 127.0.0.1
